@@ -2,7 +2,7 @@
 ## This is a small project meant to be used as an API for a task management application/website  
 ### Once the code is downloaded, the home page will be the "index.html" file  
 
-Use the "index.html file to open the webpage on your preferred web browser  
+Use the "index.html file to open the webpage on your prefferred web browser  
 ### Home Page  
 This is the page you will land on once you run the application.  
 Here, you will notice a few features. 
